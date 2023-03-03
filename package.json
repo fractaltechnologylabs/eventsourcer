@@ -1,5 +1,5 @@
 {
-  "name": "eventsourcer",
+  "name": "@peterwangartium/eventsourcer",
   "version": "1.0.0",
   "description": "Event sourcing library",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
     "sourcer",
     "events"
   ],
-  "author": "artium",
+  "author": "peterwangartium",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.4.0",
